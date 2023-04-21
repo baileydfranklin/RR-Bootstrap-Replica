@@ -24,7 +24,7 @@ export default function StoreListing() {
             <StyledContainer>
                 <StyledRow>
                     <Row>
-                        <Col xs='0.5'>
+                        <Col>
                             <CircleDiv/>
                         </Col>
                         <Col>
@@ -34,7 +34,7 @@ export default function StoreListing() {
                     </Row>
                     <Col sm='1'></Col>
                     <Row>
-                        <Col xs='0.5'>
+                        <Col>
                             <CircleDiv/>
                         </Col>
                         <Col>
@@ -43,7 +43,7 @@ export default function StoreListing() {
                         </Col>
                     </Row>
                     <Row>
-                        <Col xs='0.5'>
+                        <Col>
                             <CircleDiv/>
                         </Col>
                         <Col>
